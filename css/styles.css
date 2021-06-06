@@ -66,16 +66,13 @@ ul li {
     list-style:none;
 }
 
-.linha-do-tempo {
+#linha-do-tempo {
     position: relative;
     max-width: 1024px;height: auto;
     padding: 0px;margin: 0px auto;
     overflow: hidden;
 }
 
-#linhaTempo{
-
-}
 
 .marcador {
     width: 50%;float: left;
