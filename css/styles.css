@@ -2,7 +2,7 @@
 #informacoesPessoais {
     margin-top: 20px;
     color: white;
-    width: 700px;
+    width: auto;
 }
 
 #informacoesPessoais img{
@@ -68,8 +68,10 @@ ul li {
 
 #linha-do-tempo {
     position: relative;
-    max-width: 1024px;height: auto;
-    padding: 0px;margin: 0px auto;
+    max-width: 1024px;
+    height: auto;
+    padding: 0px;
+    margin: 0px auto;
     overflow: hidden;
 }
 
@@ -81,7 +83,7 @@ ul li {
     z-index: -1;
     border-right: 2px dashed rgb(173, 45, 66);
     box-sizing: border-box;
-} 
+}
 
 .ano {
     font-weight: 600;
@@ -120,12 +122,6 @@ ul li {
 .item p a {
     color: #e44b4b;
     text-align: center;
-}
-
-@media all and (max-width: 650px) {
-    .item {
-        width: 80%;
-    }
 }
 
 .footer ul{
