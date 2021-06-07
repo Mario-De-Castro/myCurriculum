@@ -3,6 +3,7 @@
     margin-top: 20px;
     color: white;
     width: auto;
+    flex-wrap: wrap;
 }
 
 #informacoesPessoais img{
