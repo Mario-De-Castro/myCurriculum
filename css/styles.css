@@ -128,3 +128,7 @@ ul li {
 #footer li{
     color: white;
 }
+
+#footer a{
+    text-decoration: none
+}
